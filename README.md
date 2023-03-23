@@ -1,5 +1,10 @@
 # Premier-League
 ## We are dealing with data from the 2000-01 Season until the 31st Fixture of the 2021-22 Season of the Englsih Premier League.
+## We performed some EDA as can be seen at the Premier League EDA file using Python and we made a report Premier League using PowerBI.
+## A summary of our findings:
+   1. Playing at Home is an important advantage for a Team.
+   2. We see that the result of half time is a goodindicator of what the final result will be.
+   3. More goal are scored during the Second-half of a game.
 ## Some Statistics regarding the top teams in Scoring:
              Home Goals
       Arsenal      2.13 Average (882 Total)
